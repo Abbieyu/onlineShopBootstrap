@@ -61,6 +61,10 @@ html {
     color: teal;
 }
 
+.text-teal:hover {
+    color: teal;
+}
+
 .btn-teal {
     color: floralwhite;
     background-color: teal;
@@ -164,6 +168,10 @@ input {
 }
 
 #colorrose {
+    color: rgb(235, 104, 137) !important;
+}
+
+.colorrose {
     color: rgb(235, 104, 137) !important;
 }
 
