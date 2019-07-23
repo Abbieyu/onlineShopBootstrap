@@ -1,0 +1,172 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-text {
+    padding: 0px;
+}
+
+.modal-header {
+    border-bottom: 0px;
+}
+
+.form-group {
+    align-items: center;
+}
+
+.bg-gray {
+    background-color: floralwhite;
+}
+
+.navbar {
+    background-color: teal;
+    margin-bottom: 40px;
+}
+
+.nav-link {
+    color: floralwhite !important;
+}
+
+.navbar-brand {
+    color: floralwhite !important;
+}
+
+.modal-header img {
+    height: 100px;
+    width: 100px;
+}
+
+#modalfooter {
+    margin-left: 32%;
+}
+
+#dismiss-button {
+    color: teal;
+}
+
+.modal-content {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.modal-footer {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.modal-footer a {
+    color: darkslategray;
+}
+
+.text-teal {
+    color: teal;
+}
+
+.btn-teal {
+    color: floralwhite;
+    background-color: teal;
+}
+
+.image {
+    text-align: center;
+}
+
+.inimage {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: teal !important;
+    opacity: 1;
+    /* Firefox */
+}
+
+input {
+    padding: 10px;
+    font-family: FontAwesome, "Open Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: small;
+    text-decoration: inherit;
+}
+
+.container-fluid {
+    margin-top: 10px;
+}
+
+.carousel .carousel-item {
+    height: 550px;
+}
+
+.carousel .carousel-item img {
+    display: block;
+    height: 550px;
+    margin-top: 20px;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.carousel-caption {
+    color: rgb(4, 73, 73);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.page-footer {
+    background-color: rgb(92, 179, 174);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.row-content {
+    padding: 120px 10px 120px 10px;
+}
+
+#content0 {
+    background-color: rgb(234, 239, 245);
+    border-radius: 5px;
+}
+
+#content1 {
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+#content2 {
+    background-color: azure;
+    border-radius: 5px;
+}
+
+#content3 {
+    background-color: rgb(227, 243, 245);
+    border-radius: 5px;
+}
+
+#link {
+    padding-left: 1px;
+}
+
+.bg-transparent {
+    background: transparent;
+    border: 0px;
+    margin-left: 30px;
+}
+
+.image-tile {
+    margin: 15px;
+}
+
+.image-tile img {
+    border: 2px dotted turquoise;
+    border-radius: 7px;
+    display: inline;
+}
+
+#colorrose {
+    color: rgb(235, 104, 137) !important;
+}
+
+.color-pale {
+    color: rgb(8, 90, 90)
+}
